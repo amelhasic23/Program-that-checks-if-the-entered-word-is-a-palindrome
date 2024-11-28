@@ -1,0 +1,7 @@
+F:\Program koji proverava da li je uneta reč palindrom\Program koji proverava da li je uneta reč palindrom\bin\Debug\Program koji proverava da li je uneta reč palindrom.exe.config
+F:\Program koji proverava da li je uneta reč palindrom\Program koji proverava da li je uneta reč palindrom\bin\Debug\Program koji proverava da li je uneta reč palindrom.exe
+F:\Program koji proverava da li je uneta reč palindrom\Program koji proverava da li je uneta reč palindrom\bin\Debug\Program koji proverava da li je uneta reč palindrom.pdb
+F:\Program koji proverava da li je uneta reč palindrom\Program koji proverava da li je uneta reč palindrom\obj\Debug\Program koji proverava da li je uneta reč palindrom.csproj.AssemblyReference.cache
+F:\Program koji proverava da li je uneta reč palindrom\Program koji proverava da li je uneta reč palindrom\obj\Debug\Program koji proverava da li je uneta reč palindrom.csproj.CoreCompileInputs.cache
+F:\Program koji proverava da li je uneta reč palindrom\Program koji proverava da li je uneta reč palindrom\obj\Debug\Program koji proverava da li je uneta reč palindrom.exe
+F:\Program koji proverava da li je uneta reč palindrom\Program koji proverava da li je uneta reč palindrom\obj\Debug\Program koji proverava da li je uneta reč palindrom.pdb

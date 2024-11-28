@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Program koji proverava da li je uneta re\u010D palindrom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDA4BB-DA43-4191-8D93-23126B969748}|Program koji proverava da li je uneta re\u010D palindrom\\Program koji proverava da li je uneta re\u010D palindrom.csproj|f:\\program koji proverava da li je uneta re\u010D palindrom\\program koji proverava da li je uneta re\u010D palindrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDA4BB-DA43-4191-8D93-23126B969748}|Program koji proverava da li je uneta re\u010D palindrom\\Program koji proverava da li je uneta re\u010D palindrom.csproj|solutionrelative:program koji proverava da li je uneta re\u010D palindrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Program koji proverava da li je uneta re\u010D palindrom\\Program koji proverava da li je uneta re\u010D palindrom\\Program.cs",
+              "RelativeDocumentMoniker": "Program koji proverava da li je uneta re\u010D palindrom\\Program.cs",
+              "ToolTip": "F:\\Program koji proverava da li je uneta re\u010D palindrom\\Program koji proverava da li je uneta re\u010D palindrom\\Program.cs",
+              "RelativeToolTip": "Program koji proverava da li je uneta re\u010D palindrom\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:46:40.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
